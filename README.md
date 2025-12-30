@@ -21,7 +21,7 @@ Edit `assets/config.json`:
 
 ```json
 {
-  "appName": "myprojectplatform",
+  "appName": "myproject",
   "url": "https://myprojectplatform.com"
 }
 ```
