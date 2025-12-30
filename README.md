@@ -170,6 +170,6 @@ This project is open source and available for personal and commercial use.
 ## Test Configuration
 
 Current test setup:
-- **App Name**: Myprojectplatform
+- **App Name**: Myproject
 - **URL**: https://myprojectplatform.com
 - **Logo**: logo.png
